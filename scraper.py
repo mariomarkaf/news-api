@@ -335,13 +335,3 @@ def get_all_news():
         get_all_economy_news() +
         get_finextra_crypto_news()
     )
-
-
-
-
-if __name__ == "__main__":
-    data = get_all_news()
-    with open("news.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-
-    print(json.dumps(data, ensure_ascii=False, indent=2))
