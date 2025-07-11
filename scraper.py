@@ -310,7 +310,7 @@ def get_all_economy_news():
     )
 
 def get_all_news():
-    return (
+    all_articles = (
         get_all_real_estate_news() +
         get_all_stock_market_news() +
         get_all_ai_news() +
@@ -319,3 +319,5 @@ def get_all_news():
         get_all_economy_news() +
         get_finextra_crypto_news()
     )
+
+    return [a for a in all_articles if a.get("title")]
