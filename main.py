@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from scraper import get_all_news  # vagy news_scraper ha úgy hívod
+from scraper import get_all_news
 
 app = FastAPI()
 
