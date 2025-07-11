@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
-import json
+
+# ---------------- BUSINESS INSIDER ----------------
 
 def get_businessinsider_stocks_news():
     url = "https://markets.businessinsider.com/stocks"
@@ -16,7 +17,7 @@ def get_businessinsider_stocks_news():
             "title": title,
             "url": link,
             "source": "Business Insider",
-            "category": "Stocks"
+            "category": "Stock Market"
         })
     return articles
 
@@ -34,7 +35,7 @@ def get_businessinsider_ai_news():
             "title": title,
             "url": link,
             "source": "Business Insider",
-            "category": "AI"
+            "category": "Artificial Intelligence"
         })
     return articles
 
@@ -53,24 +54,6 @@ def get_businessinsider_realestate_news():
             "url": link,
             "source": "Business Insider",
             "category": "Real Estate"
-        })
-    return articles
-
-def get_businessinsider_startups_news():
-    url = "https://www.businessinsider.com/startups"
-    r = requests.get(url)
-    soup = BeautifulSoup(r.text, "html.parser")
-    articles = []
-    for item in soup.select("a.tout-title-link")[:5]:
-        title = item.get_text(strip=True)
-        link = item["href"]
-        if link.startswith("/"):
-            link = "https://www.businessinsider.com" + link
-        articles.append({
-            "title": title,
-            "url": link,
-            "source": "Business Insider",
-            "category": "Startups"
         })
     return articles
 
@@ -128,41 +111,41 @@ def get_businessinsider_finance_news():
         })
     return articles
 
-def get_finextra_crypto_news():
-    url = "https://www.finextra.com/channel/crypto"
+def get_businessinsider_startups_news():
+    url = "https://www.businessinsider.com/startups"
     r = requests.get(url)
     soup = BeautifulSoup(r.text, "html.parser")
     articles = []
-
-    for a in soup.select("a[href^='/newsarticle']")[:5]:
-        title = a.get_text(strip=True)
-        link = a["href"]
+    for item in soup.select("a.tout-title-link")[:5]:
+        title = item.get_text(strip=True)
+        link = item["href"]
         if link.startswith("/"):
-            link = "https://www.finextra.com" + link
+            link = "https://www.businessinsider.com" + link
         articles.append({
             "title": title,
             "url": link,
-            "source": "Finextra",
-            "category": "Crypto"
+            "source": "Business Insider",
+            "category": "Startups"
         })
     return articles
+
+# ----------- FINEXTRA ------------
 
 def get_finextra_ai_news():
     url = "https://www.finextra.com/channel/ai"
     r = requests.get(url)
     soup = BeautifulSoup(r.text, "html.parser")
     articles = []
-
-    for a in soup.select("a[href^='/newsarticle']")[:5]:
-        title = a.get_text(strip=True)
-        link = a["href"]
+    for item in soup.select("a[href^='/newsarticle']")[:5]:
+        title = item.get_text(strip=True)
+        link = item["href"]
         if link.startswith("/"):
             link = "https://www.finextra.com" + link
         articles.append({
             "title": title,
             "url": link,
             "source": "Finextra",
-            "category": "AI"
+            "category": "Artificial Intelligence"
         })
     return articles
 
@@ -171,10 +154,9 @@ def get_finextra_startups_news():
     r = requests.get(url)
     soup = BeautifulSoup(r.text, "html.parser")
     articles = []
-
-    for a in soup.select("a[href^='/newsarticle']")[:5]:
-        title = a.get_text(strip=True)
-        link = a["href"]
+    for item in soup.select("a[href^='/newsarticle']")[:5]:
+        title = item.get_text(strip=True)
+        link = item["href"]
         if link.startswith("/"):
             link = "https://www.finextra.com" + link
         articles.append({
@@ -185,12 +167,31 @@ def get_finextra_startups_news():
         })
     return articles
 
+def get_finextra_crypto_news():
+    url = "https://www.finextra.com/channel/crypto"
+    r = requests.get(url)
+    soup = BeautifulSoup(r.text, "html.parser")
+    articles = []
+    for item in soup.select("a[href^='/newsarticle']")[:5]:
+        title = item.get_text(strip=True)
+        link = item["href"]
+        if link.startswith("/"):
+            link = "https://www.finextra.com" + link
+        articles.append({
+            "title": title,
+            "url": link,
+            "source": "Finextra",
+            "category": "Crypto"
+        })
+    return articles
+
+# ----------- PORTFOLIO ------------
+
 def get_portfolio_ingatlan_news():
     url = "https://www.portfolio.hu/ingatlan"
     r = requests.get(url)
     soup = BeautifulSoup(r.text, "html.parser")
     articles = []
-
     for a in soup.select("a[href^='https://www.portfolio.hu/ingatlan/']")[:5]:
         title = a.get_text(strip=True)
         link = a["href"]
@@ -207,7 +208,6 @@ def get_portfolio_global_news():
     r = requests.get(url)
     soup = BeautifulSoup(r.text, "html.parser")
     articles = []
-
     for a in soup.select("a[href^='https://www.portfolio.hu/global/']")[:5]:
         title = a.get_text(strip=True)
         link = a["href"]
@@ -224,7 +224,6 @@ def get_portfolio_uzlet_news():
     r = requests.get(url)
     soup = BeautifulSoup(r.text, "html.parser")
     articles = []
-
     for a in soup.select("a[href^='https://www.portfolio.hu/uzlet/']")[:5]:
         title = a.get_text(strip=True)
         link = a["href"]
@@ -236,28 +235,13 @@ def get_portfolio_uzlet_news():
         })
     return articles
 
-def get_monitorblog_news(category_name, category_url):
-    r = requests.get(category_url)
-    soup = BeautifulSoup(r.text, "html.parser")
-    articles = []
-
-    for a in soup.select("h2.entry-title a")[:5]:
-        title = a.get_text(strip=True)
-        link = a["href"]
-        articles.append({
-            "title": title,
-            "url": link,
-            "source": "Monitorblog.hu",
-            "category": category_name
-        })
-    return articles
+# ----------- MONITORBLOG ------------
 
 def get_monitorblog_reszvenypiac_news():
     url = "https://monitorblog.hu/category/reszvenypiac/"
     r = requests.get(url)
     soup = BeautifulSoup(r.text, "html.parser")
     articles = []
-
     for a in soup.select("h2.entry-title a[href^='https://monitorblog.hu/hirek-']")[:5]:
         title = a.get_text(strip=True)
         link = a["href"]
@@ -265,7 +249,7 @@ def get_monitorblog_reszvenypiac_news():
             "title": title,
             "url": link,
             "source": "Monitorblog.hu",
-            "category": "Stocks"
+            "category": "Stock Market"
         })
     return articles
 
@@ -274,7 +258,6 @@ def get_monitorblog_ingatlanpiac_news():
     r = requests.get(url)
     soup = BeautifulSoup(r.text, "html.parser")
     articles = []
-
     for a in soup.select("h2.entry-title a[href^='https://monitorblog.hu/']")[:5]:
         title = a.get_text(strip=True)
         link = a["href"]
@@ -285,6 +268,8 @@ def get_monitorblog_ingatlanpiac_news():
             "category": "Real Estate"
         })
     return articles
+
+# ---------------------- GYŰJTŐ FÜGGVÉNYEK ----------------------
 
 def get_all_real_estate_news():
     return (
@@ -323,7 +308,6 @@ def get_all_economy_news():
         get_businessinsider_finance_news() +
         get_portfolio_uzlet_news()
     )
-
 
 def get_all_news():
     return (
