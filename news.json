@@ -1,392 +1,653 @@
 [
   {
-    "title": "",
-    "url": "https://www.portfolio.hu/ingatlan/20250711/vilagszinten-is-kulonleges-okos-autopalya-szakaszt-adtak-at-magyarorszagon-773881",
+    "title": "Startol az „Otthon Start”",
+    "url": "https://monitorblog.hu/startol-az-otthon-start/",
+    "time": "2025-07-10T00:00:00",
+    "source": "Monitorblog.hu",
+    "category": "Real Estate"
+  },
+  {
+    "title": "Élénkülni kezdett az építőipar – ágazati kitekintő",
+    "url": "https://monitorblog.hu/elenkulni-kezdett-az-epitoipar-agazati-kitekinto/",
+    "time": "2025-06-13T00:00:00",
+    "source": "Monitorblog.hu",
+    "category": "Real Estate"
+  },
+  {
+    "title": "Kettősség jellemzi az építőipart – ágazati kitekintő",
+    "url": "https://monitorblog.hu/kettosseg-jellemzi-az-epitoipart-agazati-kitekinto-2/",
+    "time": "2025-05-14T00:00:00",
+    "source": "Monitorblog.hu",
+    "category": "Real Estate"
+  },
+  {
+    "title": "Hosszabb távon sokat lendíthet a gazdaságon a Lakhatási Tőkeprogram",
+    "url": "https://monitorblog.hu/hosszabb-tavon-sokat-lendithet-a-gazdasagon-a-lakhatasi-tokeprogram/",
+    "time": "2025-05-07T00:00:00",
+    "source": "Monitorblog.hu",
+    "category": "Real Estate"
+  },
+  {
+    "title": "Hullámvasúton az építőipar – ágazati kitekintő",
+    "url": "https://monitorblog.hu/hullamvasuton-az-epitoipar-agazati-kitekinto/",
+    "time": "2025-04-14T00:00:00",
+    "source": "Monitorblog.hu",
+    "category": "Real Estate"
+  },
+  {
+    "title": "Bővülni tudott az építőipar – ágazati kitekintő",
+    "url": "https://monitorblog.hu/bovulni-tudott-az-epitoipar-agazati-kitekinto/",
+    "time": "2025-03-14T00:00:00",
+    "source": "Monitorblog.hu",
+    "category": "Real Estate"
+  },
+  {
+    "title": "Gyenge számokat produkált az építőipar decemberben – ágazati kitekintő",
+    "url": "https://monitorblog.hu/gyenge-szamokat-produkalt-az-epitoipar-decemberben-agazati-kitekinto/",
+    "time": "2025-02-14T00:00:00",
+    "source": "Monitorblog.hu",
+    "category": "Real Estate"
+  },
+  {
+    "title": "Még nem kapott erőre az építőipar – ágazati kitekintő",
+    "url": "https://monitorblog.hu/meg-nem-kapott-erore-az-epitoipar-agazati-kitekinto/",
+    "time": "2025-01-15T00:00:00",
+    "source": "Monitorblog.hu",
+    "category": "Real Estate"
+  },
+  {
+    "title": "Enyhén erősödik az építőipar",
+    "url": "https://monitorblog.hu/enyhen-erosodik-az-epitoipar/",
+    "time": "2024-12-13T00:00:00",
+    "source": "Monitorblog.hu",
+    "category": "Real Estate"
+  },
+  {
+    "title": "Most jöhet a brutális áremelkedés a magyar lakáspiacon?",
+    "url": "https://www.portfolio.hu/ingatlan/20250714/most-johet-a-brutalis-aremelkedes-a-magyar-lakaspiacon-774069",
+    "time": "2025-07-14T09:00:00",
+    "source": "Portfolio.hu",
+    "category": "Real Estate"
+  },
+  {
+    "title": "Változások a Budai Várban: Lázár Jánoshoz került a beruházás, sokaknak felmondtak",
+    "url": "https://www.portfolio.hu/ingatlan/20250714/valtozasok-a-budai-varban-lazar-janoshoz-kerult-a-beruhazas-sokaknak-felmondtak-774161",
+    "time": "2025-07-14T08:30:00",
+    "source": "Portfolio.hu",
+    "category": "Real Estate"
+  },
+  {
+    "title": "Jelentős lakóingatlan-fejlesztés jön Debrecenben, íme a részletek",
+    "url": "https://www.portfolio.hu/ingatlan/20250714/jelentos-lakoingatlan-fejlesztes-jon-debrecenben-ime-a-reszletek-773939",
+    "time": "2025-07-14T08:08:00",
+    "source": "Portfolio.hu",
+    "category": "Real Estate"
+  },
+  {
+    "title": "Megszólalt a kormány a 3%-os lakáshitelről: így lehet még kedvezőbb",
+    "url": "https://www.portfolio.hu/bank/20250713/megszolalt-a-kormany-a-3-os-lakashitelrol-igy-lehet-meg-kedvezobb-774077",
+    "time": "2025-07-13T09:13:00",
+    "source": "Portfolio.hu",
+    "category": "Real Estate"
+  },
+  {
+    "title": "A szomszédban építkeznek Trumpék",
+    "url": "https://www.portfolio.hu/ingatlan/20250712/a-szomszedban-epitkeznek-trumpek-774027",
+    "time": "2025-07-12T14:09:00",
+    "source": "Portfolio.hu",
+    "category": "Real Estate"
+  },
+  {
+    "title": "Bejelentette a kormány: máris változás jön a 3%-os lakáshitelnél",
+    "url": "https://www.portfolio.hu/bank/20250712/bejelentette-a-kormany-maris-valtozas-jon-a-3-os-lakashitelnel-774017",
+    "time": "2025-07-12T11:49:00",
+    "source": "Portfolio.hu",
+    "category": "Real Estate"
+  },
+  {
+    "title": "Ingatlanpiaci elemzőt keres a Portfolio, jelentkezz hozzánk!",
+    "url": "https://www.portfolio.hu/ingatlan/20250712/ingatlanpiaci-elemzot-keres-a-portfolio-jelentkezz-hozzank-751993",
+    "time": "2025-07-12T10:46:00",
     "source": "Portfolio.hu",
     "category": "Real Estate"
   },
   {
     "title": "Világszinten is különleges, okos autópálya-szakaszt adtak át Magyarországon",
     "url": "https://www.portfolio.hu/ingatlan/20250711/vilagszinten-is-kulonleges-okos-autopalya-szakaszt-adtak-at-magyarorszagon-773881",
-    "source": "Portfolio.hu",
-    "category": "Real Estate"
-  },
-  {
-    "title": "",
-    "url": "https://www.portfolio.hu/ingatlan/20250711/tragikus-a-helyzet-a-magyar-lakasoknal-szornyen-keves-az-epitkezes-773831",
+    "time": "2025-07-11T11:23:00",
     "source": "Portfolio.hu",
     "category": "Real Estate"
   },
   {
     "title": "Tragikus a helyzet a magyar lakásoknál, szörnyen kevés az építkezés",
     "url": "https://www.portfolio.hu/ingatlan/20250711/tragikus-a-helyzet-a-magyar-lakasoknal-szornyen-keves-az-epitkezes-773831",
+    "time": "2025-07-11T09:24:00",
     "source": "Portfolio.hu",
     "category": "Real Estate"
   },
   {
-    "title": "",
+    "title": "Indul az egyetemista bérlők rohama – őrültek háza jön az albérleteknél?",
     "url": "https://www.portfolio.hu/ingatlan/20250710/indul-az-egyetemista-berlok-rohama-orultek-haza-jon-az-alberleteknel-773705",
+    "time": "2025-07-10T13:50:00",
     "source": "Portfolio.hu",
     "category": "Real Estate"
   },
   {
-    "title": "I was scared to leave NYC — but I moved to Nashville, fell in love, and have been happily living here for a decade",
-    "url": "https://www.businessinsider.com/left-new-york-city-after-decades-moved-to-nashville-happier-2025-7",
-    "source": "Business Insider",
-    "category": "Real Estate"
+    "title": "Kétarc – részvénypiaci helyzetkép",
+    "url": "https://monitorblog.hu/ketarc-reszvenypiaci-helyzetkep/",
+    "time": "2025-07-09T00:00:00",
+    "source": "Monitorblog.hu",
+    "category": "Stock Market"
   },
   {
-    "title": "Photos show Castel Gandolfo, the 135-acre Italian estate where the pope takes summer vacation",
-    "url": "https://www.businessinsider.com/pope-summer-residence-vacation-estate-castel-gandolfo-photos-2025-7",
-    "source": "Business Insider",
-    "category": "Real Estate"
+    "title": "Olaj vs. világ – részvénypiaci helyzetkép",
+    "url": "https://monitorblog.hu/olaj-vs-vilag-reszvenypiaci-helyzetkep/",
+    "time": "2025-06-25T00:00:00",
+    "source": "Monitorblog.hu",
+    "category": "Stock Market"
   },
   {
-    "title": "We bought an apartment in Italy for less than what we'd spend on a down payment in the US. The renovations are a headache, but it's still worth it.",
-    "url": "https://www.businessinsider.com/american-couple-buys-italy-apartment-instead-of-us-down-payment-2025-7",
-    "source": "Business Insider",
-    "category": "Real Estate"
+    "title": "OPUS: A stratégiának megfelelően",
+    "url": "https://monitorblog.hu/opus-a-strategianak-megfeleloen-2/",
+    "time": "2025-06-19T00:00:00",
+    "source": "Monitorblog.hu",
+    "category": "Stock Market"
   },
   {
-    "title": "I gave up my life abroad to follow my partner to the Midwest. It cost me far more than I expected.",
-    "url": "https://www.businessinsider.com/gave-up-life-abroad-to-follow-partner-split-bad-idea-2025-7",
-    "source": "Business Insider",
-    "category": "Real Estate"
+    "title": "Hírek sehonnan – részvénypiaci helyzetkép",
+    "url": "https://monitorblog.hu/hirek-sehonnan-reszvenypiaci-helyzetkep/",
+    "time": "2025-06-19T00:00:00",
+    "source": "Monitorblog.hu",
+    "category": "Stock Market"
   },
   {
-    "title": "A US Army vet thought he'd work into his 70s. A move to South Korea gave him the freedom to retire in his 50s.",
-    "url": "https://www.businessinsider.com/us-army-veteran-retire-early-south-korea-low-affordable-life-2025-7",
-    "source": "Business Insider",
-    "category": "Real Estate"
+    "title": "Uborkaszezon? – Részvénypiaci helyzetkép",
+    "url": "https://monitorblog.hu/uborkaszezon-reszvenypiaci-helyzetkep/",
+    "time": "2025-06-12T00:00:00",
+    "source": "Monitorblog.hu",
+    "category": "Stock Market"
   },
   {
-    "title": "Owning crypto might soon help you get a mortgage",
-    "url": "https://www.businessinsider.com/crypto-mortgage-asset-fhfa-fannie-freddie-housing-pulte-trump-2025-6",
-    "source": "Business Insider",
-    "category": "Stocks"
+    "title": "Hátraarc! Dübörög az amerikai gazdaság?",
+    "url": "https://monitorblog.hu/hatraarc-duborog-az-amerikai-gazdasag/",
+    "time": "2025-06-05T00:00:00",
+    "source": "Monitorblog.hu",
+    "category": "Stock Market"
   },
   {
-    "title": "Trump's housing chief said he had directed Fannie and Freddie to come up with proposals to start counting crypto as an asset in mortgage risk assessment.",
-    "url": "https://www.businessinsider.com/crypto-mortgage-asset-fhfa-fannie-freddie-housing-pulte-trump-2025-6",
-    "source": "Business Insider",
-    "category": "Stocks"
+    "title": "(N)agybaj, 899. rész – részvénypiaci helyzetkép",
+    "url": "https://monitorblog.hu/nagybaj-899-resz-reszvenypiaci-helyzetkep/",
+    "time": "2025-06-04T00:00:00",
+    "source": "Monitorblog.hu",
+    "category": "Stock Market"
   },
   {
-    "title": "JD Vance says the Fed is committing 'monetary malpractice,' joining Trump in bashing the central bank",
-    "url": "https://markets.businessinsider.com/news/stocks/jd-vance-trump-inflation-fed-interest-rates-cpi-powell-tariffs-2025-6",
-    "source": "Business Insider",
-    "category": "Stocks"
+    "title": "Borús május – részvénypiaci helyzetkép",
+    "url": "https://monitorblog.hu/borus-majus-reszvenypiaci-helyzetkep/",
+    "time": "2025-05-29T00:00:00",
+    "source": "Monitorblog.hu",
+    "category": "Stock Market"
   },
   {
-    "title": "The Vice President said the Fed refusing to cut interest rates was \"monetary malpractice,\" echoing sentiment voiced by Trump in recent months.",
-    "url": "https://markets.businessinsider.com/news/stocks/jd-vance-trump-inflation-fed-interest-rates-cpi-powell-tariffs-2025-6",
-    "source": "Business Insider",
-    "category": "Stocks"
+    "title": "Továbbra is jól gurul a Waberer’s",
+    "url": "https://monitorblog.hu/tovabbra-is-jol-gurul-a-waberers/",
+    "time": "2025-05-20T00:00:00",
+    "source": "Monitorblog.hu",
+    "category": "Stock Market"
   },
   {
-    "title": "Stock valuations are hovering at levels that have historically preceded major corrections, Pimco warns",
-    "url": "https://www.businessinsider.com/stock-market-crash-high-valuations-1987-dot-com-pimco-2025-6",
-    "source": "Business Insider",
-    "category": "Stocks"
+    "title": "Watch These Circle Price Levels as the House Votes on Stablecoin Framework",
+    "url": "https://www.investopedia.com/watch-these-circle-price-levels-as-the-house-votes-on-stablecoin-frameworke-price-levels-as-house-votes-on-stablecoin-framework-11771406",
+    "time": "2025-07-14T00:00:00",
+    "source": "Investopedia",
+    "category": "Markets"
   },
   {
-    "title": "AI models aren't made equal. Some nonprofits are creating their own tools instead.",
-    "url": "https://www.businessinsider.com/nonprofits-ai-tools-edtech-global-inequities-2025-7",
-    "source": "Business Insider",
-    "category": "AI"
+    "title": "5 Things to Know Before the Stock Market Opens",
+    "url": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-july-14-2025-trade-musk-earnings-11771415",
+    "time": "2025-07-14T00:00:00",
+    "source": "Investopedia",
+    "category": "Markets"
   },
   {
-    "title": "What is Grok?",
-    "url": "https://www.businessinsider.com/grok-artificial-intelligence-chatbot-elon-musk-xai-explained-2025-7",
-    "source": "Business Insider",
-    "category": "AI"
+    "title": "S&P 500 Gains & Losses Today: PayPal Stock Drops as Index Retreats From Record",
+    "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-paypal-stock-drops-as-index-retreats-from-record-11770704",
+    "time": "2025-07-11T00:00:00",
+    "source": "Investopedia",
+    "category": "Markets"
   },
   {
-    "title": "An AI researcher says most jobs will be wiped out by 2045 — but sex workers, politicians, and sports coaches will survive",
-    "url": "https://www.businessinsider.com/ai-wipe-out-most-jobs-2045-few-still-survive-researcher-2025-7",
-    "source": "Business Insider",
-    "category": "AI"
+    "title": "What To Expect in Markets This Week: Big Bank Earnings, June Inflation, Retail Sales Data",
+    "url": "https://www.investopedia.com/what-to-expect-in-markets-this-week-bank-earnings-june-inflation-cpi-retail-sales-netflix-11769986",
+    "time": "2025-07-13T00:00:00",
+    "source": "Investopedia",
+    "category": "Markets"
   },
   {
-    "title": "Is your chatbot judging you? How Big Tech is cracking down on 'preachy' AI.",
-    "url": "https://www.businessinsider.com/meta-google-training-ai-chatbots-preachy-tone-big-tech-2025-7",
-    "source": "Business Insider",
-    "category": "AI"
+    "title": "Top Stock Movers Now: Spotify, Albemarle, Nvidia, and More",
+    "url": "https://www.investopedia.com/top-stock-movers-now-spotify-albemarle-nvidia-and-more-11770519",
+    "time": "2025-07-11T00:00:00",
+    "source": "Investopedia",
+    "category": "Markets"
   },
   {
-    "title": "Amazon's Starfish project is using AI to create the ultimate source of information for 'all products worldwide'",
-    "url": "https://www.businessinsider.com/amazon-starfish-ai-ultimate-source-product-information-marketplace-sellers-collection-2025-7",
-    "source": "Business Insider",
-    "category": "AI"
+    "title": "IEA Sees Global Oil Supply Growing Faster Than Expected",
+    "url": "https://www.investopedia.com/iea-sees-global-oil-supply-growing-faster-than-expected-11770408",
+    "time": "2025-07-11T00:00:00",
+    "source": "Investopedia",
+    "category": "Markets"
   },
   {
-    "title": "",
-    "url": "https://www.finextra.com/newsarticle/46279/nationwide-taps-microsoft-and-accenture-for-genai-powered-cybersecurity",
+    "title": "AMD Stock Popped After Analyst Said New AI Chips Could Take On Nvidia’s—Watch These Key Price Levels",
+    "url": "https://www.investopedia.com/amd-stock-popped-after-analyst-said-new-ai-chips-could-take-on-nvidias-watch-these-key-price-levels-11770309",
+    "time": "2025-07-11T00:00:00",
+    "source": "Investopedia",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin Tops $118,000 in Another All-Time High",
+    "url": "https://www.investopedia.com/bitcoin-soars-to-a-new-record-high-11770332",
+    "time": "2025-07-11T00:00:00",
+    "source": "Investopedia",
+    "category": "Markets"
+  },
+  {
+    "title": "S&P 500 Gains and Losses Today: Soaring Airline Stocks Help Lift Index to Record Close",
+    "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-soaring-airline-stocks-help-lift-index-to-record-close-11769610",
+    "time": "2025-07-10T00:00:00",
+    "source": "Investopedia",
+    "category": "Markets"
+  },
+  {
+    "title": "Top Stock Movers Now: Delta Air Lines, WK Kellogg, Autodesk, and More",
+    "url": "https://www.investopedia.com/top-stock-movers-now-delta-air-lines-wk-kellogg-autodesk-and-more-11769695",
+    "time": "2025-07-10T00:00:00",
+    "source": "Investopedia",
+    "category": "Markets"
+  },
+  {
+    "title": "Survey suggests boom in banks' cloud adoption",
+    "url": "https://www.finextra.com/newsarticle/46289/survey-suggests-boom-in-banks-cloud-adoption",
+    "time": "2025-07-14T10:48:00",
     "source": "Finextra",
-    "category": "AI"
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Bilt hits $10.75bn valuation",
+    "url": "https://www.finextra.com/newsarticle/46287/bilt-hits-1075bn-valuation",
+    "time": "2025-07-14T00:01:00",
+    "source": "Finextra",
+    "category": "Artificial Intelligence"
   },
   {
     "title": "Nationwide taps Microsoft and Accenture for GenAI-powered cybersecurity",
     "url": "https://www.finextra.com/newsarticle/46279/nationwide-taps-microsoft-and-accenture-for-genai-powered-cybersecurity",
+    "time": "2025-07-11T00:01:00",
     "source": "Finextra",
-    "category": "AI"
-  },
-  {
-    "title": "",
-    "url": "https://www.finextra.com/newsarticle/46272/aib-rolls-out-microsoft-copilot-to-10000-employees",
-    "source": "Finextra",
-    "category": "AI"
+    "category": "Artificial Intelligence"
   },
   {
     "title": "AIB rolls out Microsoft Copilot to 10,000 employees",
     "url": "https://www.finextra.com/newsarticle/46272/aib-rolls-out-microsoft-copilot-to-10000-employees",
+    "time": "2025-07-10T08:11:00",
     "source": "Finextra",
-    "category": "AI"
+    "category": "Artificial Intelligence"
   },
   {
-    "title": "",
+    "title": "Moment raises $36m to automate fixed income",
     "url": "https://www.finextra.com/newsarticle/46271/moment-raises-36m-to-automate-fixed-income",
+    "time": "2025-07-10T00:01:00",
     "source": "Finextra",
-    "category": "AI"
+    "category": "Artificial Intelligence"
   },
   {
-    "title": "French fighter jets practiced shooting down high-altitude balloons as the battle for near space heats up",
-    "url": "https://www.businessinsider.com/france-shoots-down-balloons-test-near-space-battle-spy-balloons-2025-7",
-    "source": "Business Insider",
-    "category": "Defense"
-  },
-  {
-    "title": "USS Newport News makes historic Iceland stop in strategic Arctic move",
-    "url": "https://www.businessinsider.com/uss-newport-news-makes-historic-iceland-stop-strategic-arctic-move-2025-7",
-    "source": "Business Insider",
-    "category": "Defense"
-  },
-  {
-    "title": "The Pentagon is taking a big stake in a rare earth mining company, sending the stock up 60%",
-    "url": "https://www.businessinsider.com/mp-materials-stock-price-mining-rare-earth-pentagon-stake-china-2025-7",
-    "source": "Business Insider",
-    "category": "Defense"
-  },
-  {
-    "title": "NATO is stepping up its anti-submarine warfare game — this flying hunter is key, top admiral says",
-    "url": "https://www.businessinsider.com/nato-stepping-up-anti-submarine-warfare-this-aircraft-key-admiral-2025-7",
-    "source": "Business Insider",
-    "category": "Defense"
-  },
-  {
-    "title": "After watching Ukraine, Russia's NATO neighbors are betting big on US-made HIMARS rocket artillery",
-    "url": "https://www.businessinsider.com/russias-nato-neighbors-going-all-in-on-us-made-himars-2025-7",
-    "source": "Business Insider",
-    "category": "Defense"
-  },
-  {
-    "title": "",
-    "url": "https://www.portfolio.hu/global/20250711/talalkozott-az-orosz-es-az-amerikai-kulugyminiszter-fontos-nyilatkozatot-igert-trump-haborus-hireink-penteken-773795",
+    "title": "Nagyot fordult a világ Trumppal: ezzel végleg eljátszhatta Putyin az amerikai elnök jóindulatát",
+    "url": "https://www.portfolio.hu/global/20250714/nagyot-fordult-a-vilag-trumppal-ezzel-vegleg-eljatszhatta-putyin-az-amerikai-elnok-joindulatat-774301",
+    "time": "2025-07-14T17:16:00",
     "source": "Portfolio.hu",
     "category": "Defense"
   },
   {
-    "title": "Találkozott az orosz és az amerikai külügyminiszter, fontos nyilatkozatot ígért Trump – Háborús híreinkpénteken",
-    "url": "https://www.portfolio.hu/global/20250711/talalkozott-az-orosz-es-az-amerikai-kulugyminiszter-fontos-nyilatkozatot-igert-trump-haborus-hireink-penteken-773795",
+    "title": "Kiderült, mi lehet Ukrajna új csodafegyvere: úgy tűnik, Trump hajlik a döntésre",
+    "url": "https://www.portfolio.hu/global/20250714/kiderult-mi-lehet-ukrajna-uj-csodafegyvere-ugy-tunik-trump-hajlik-a-dontesre-774295",
+    "time": "2025-07-14T16:56:00",
     "source": "Portfolio.hu",
     "category": "Defense"
   },
   {
-    "title": "",
-    "url": "https://www.portfolio.hu/global/20250711/friss-felvetelek-bizonyitjak-ballisztikus-raketa-talalta-el-az-amerikai-legibazist-773847",
+    "title": "Borúlátó jelentés: ha ezt a vörös vonalat átlépi Oroszország, az azonnali bombázást válthat ki a NATO-ból",
+    "url": "https://www.portfolio.hu/global/20250714/borulato-jelentes-ha-ezt-a-voros-vonalat-atlepi-oroszorszag-az-azonnali-bombazast-valthat-ki-a-nato-bol-774273",
+    "time": "2025-07-14T16:38:00",
     "source": "Portfolio.hu",
     "category": "Defense"
   },
   {
-    "title": "Friss felvételek bizonyítják: ballisztikus rakéta találta el az amerikai légibázist",
-    "url": "https://www.portfolio.hu/global/20250711/friss-felvetelek-bizonyitjak-ballisztikus-raketa-talalta-el-az-amerikai-legibazist-773847",
+    "title": "Amerika váratlanul bedobta magát: Washington békét hozna a forrongó régióba",
+    "url": "https://www.portfolio.hu/global/20250714/amerika-varatlanul-bedobta-magat-washington-beket-hozna-a-forrongo-regioba-774285",
+    "time": "2025-07-14T16:20:00",
     "source": "Portfolio.hu",
     "category": "Defense"
   },
   {
-    "title": "",
-    "url": "https://www.portfolio.hu/global/20250711/millimetereken-mulhatott-donald-trump-elete-itt-a-kovetkezmenye-a-rendkivul-sulyos-hibaknak-773863",
+    "title": "Távozik az ukrán kormány, új miniszterelnöke lesz az országnak",
+    "url": "https://www.portfolio.hu/global/20250714/tavozik-az-ukran-kormany-uj-miniszterelnoke-lesz-az-orszagnak-774283",
+    "time": "2025-07-14T16:02:00",
     "source": "Portfolio.hu",
     "category": "Defense"
   },
   {
-    "title": "Anam builds digital humans that can have lifelike conversations. Read the pitch deck that it used to raise $9 million.",
-    "url": "https://www.businessinsider.com/anam-pitch-deck-ai-human-avatar-startup-9-million-redpoint-2025-7",
-    "source": "Business Insider",
+    "title": "Magyarország szomszédja egyre közelebb sodródik Amerika legnagyobb riválisához: hamarosan indulnak a katonák",
+    "url": "https://www.portfolio.hu/global/20250714/magyarorszag-szomszedja-egyre-kozelebb-sodrodik-amerika-legnagyobb-rivalisahoz-hamarosan-indulnak-a-katonak-774277",
+    "time": "2025-07-14T15:54:00",
+    "source": "Portfolio.hu",
+    "category": "Defense"
+  },
+  {
+    "title": "Sikeres volt a leválás - Kapu Tibor úton vanhazafelé!",
+    "url": "https://www.portfolio.hu/global/20250714/sikeres-volt-a-levalas-kapu-tibor-uton-van-hazafele-774201",
+    "time": "2025-07-14T15:20:00",
+    "source": "Portfolio.hu",
+    "category": "Defense"
+  },
+  {
+    "title": "Olyan ponton szakadt át az ukrán védelem, amely szinte a háború óta betonstabilan tartotta magát",
+    "url": "https://www.portfolio.hu/global/20250714/olyan-ponton-szakadt-at-az-ukran-vedelem-amely-szinte-a-haboru-ota-betonstabilan-tartotta-magat-774261",
+    "time": "2025-07-14T14:38:00",
+    "source": "Portfolio.hu",
+    "category": "Defense"
+  },
+  {
+    "title": "Friss felvételek érkeztek a lebombázott amerikai légibázisról – Komoly károk látszódnak rajta",
+    "url": "https://www.portfolio.hu/global/20250714/friss-felvetelek-erkeztek-a-lebombazott-amerikai-legibazisrol-komoly-karok-latszodnak-rajta-774245",
+    "time": "2025-07-14T13:50:00",
+    "source": "Portfolio.hu",
+    "category": "Defense"
+  },
+  {
+    "title": "Hajszálra volt a béke, de ismét szólnak a fegyverek: sokat szenvedett népcsoport került a célkeresztbe",
+    "url": "https://www.portfolio.hu/global/20250714/hajszalra-volt-a-beke-de-ismet-szolnak-a-fegyverek-sokat-szenvedett-nepcsoport-kerult-a-celkeresztbe-774225",
+    "time": "2025-07-14T13:00:00",
+    "source": "Portfolio.hu",
+    "category": "Defense"
+  },
+  {
+    "title": "JP Morgan to charge fintechs for customer data",
+    "url": "https://www.finextra.com/newsarticle/46290/jp-morgan-to-charge-fintechs-for-customer-data",
+    "time": "2025-07-14T12:27:00",
+    "source": "Finextra",
     "category": "Startups"
   },
   {
-    "title": "Trump's Big Beautiful Bill is quietly handing startups a shot at a faster payday",
-    "url": "https://www.businessinsider.com/trumps-big-beautiful-bill-helps-startups-faster-payday-qsbs-2025-7",
-    "source": "Business Insider",
+    "title": "Lloyds Bank in talks to acquire Curve - Sky News",
+    "url": "https://www.finextra.com/newsarticle/46288/lloyds-bank-in-talks-to-acquire-curve---sky-news",
+    "time": "2025-07-14T08:51:00",
+    "source": "Finextra",
     "category": "Startups"
   },
   {
-    "title": "Why the next app for relationships won't look like a dating app, according to a VC",
-    "url": "https://www.businessinsider.com/how-ai-disrupt-relationship-dating-social-apps-vc-amber-atherton-2025-7",
-    "source": "Business Insider",
-    "category": "Startups"
-  },
-  {
-    "title": "A 29-year-old VC founder sparked a debate after posting about a 7-day workweek. He shared his philosophy with us.",
-    "url": "https://www.businessinsider.com/harry-stebbings-vc-founder-7-day-workweek-2025-7",
-    "source": "Business Insider",
-    "category": "Startups"
-  },
-  {
-    "title": "Read the exclusive pitch deck data startup Ryft used to raise $8 million, led by Index and Bessemer",
-    "url": "https://www.businessinsider.com/ryft-pitch-deck-raise-8-million-index-bessemer-2025-7",
-    "source": "Business Insider",
-    "category": "Startups"
-  },
-  {
-    "title": "",
-    "url": "https://www.finextra.com/newsarticle/46280/propel-venture-partners-closes-100m-fund",
+    "title": "Ageras makes 8th acquisition with payroll company Employes",
+    "url": "https://www.finextra.com/newsarticle/46284/ageras-makes-8th-acquisition-with-payroll-company-employes",
+    "time": "2025-07-11T11:53:00",
     "source": "Finextra",
     "category": "Startups"
   },
   {
     "title": "Propel Venture Partners closes $100m fund",
     "url": "https://www.finextra.com/newsarticle/46280/propel-venture-partners-closes-100m-fund",
-    "source": "Finextra",
-    "category": "Startups"
-  },
-  {
-    "title": "",
-    "url": "https://www.finextra.com/newsarticle/46249/castellumai-raises-85m",
+    "time": "2025-07-11T00:01:00",
     "source": "Finextra",
     "category": "Startups"
   },
   {
     "title": "Castellum.AI raises $8.5m",
     "url": "https://www.finextra.com/newsarticle/46249/castellumai-raises-85m",
+    "time": "2025-07-08T13:00:00",
     "source": "Finextra",
     "category": "Startups"
   },
   {
-    "title": "",
-    "url": "https://www.finextra.com/newsarticle/46260/former-monzo-alumni-raise-13-million-for-ai-chatbot-startup",
-    "source": "Finextra",
-    "category": "Startups"
-  },
-  {
-    "title": "The 'Big Beautiful Bill' slashes food stamps. One map shows how much red states depend on them.",
-    "url": "https://www.businessinsider.com/snap-food-stamp-cuts-republican-could-hurt-red-states-most-2025-5",
-    "source": "Business Insider",
-    "category": "Economy"
-  },
-  {
-    "title": "The 15 best job markets in the country — where incomes are surging and unemployment is low",
-    "url": "https://www.businessinsider.com/best-job-markets-in-us-high-salary-growth-low-unemployment-2025-7",
-    "source": "Business Insider",
-    "category": "Economy"
-  },
-  {
-    "title": "Welcome to the age of office paranoia, when layoffs, AI, and job insecurity are terrorizing workers",
-    "url": "https://www.businessinsider.com/office-paranoia-layoffs-ai-job-security-2025-7",
-    "source": "Business Insider",
-    "category": "Economy"
-  },
-  {
-    "title": "'A little numb' to tariffs and 'very resilient': How CEOs are describing American consumers",
-    "url": "https://www.businessinsider.com/ceos-consumer-sentiment-earnings-season-economy-2025-7",
-    "source": "Business Insider",
-    "category": "Economy"
-  },
-  {
-    "title": "Russia has seized about $50 billion of assets as its wartime economy comes under pressure",
-    "url": "https://www.businessinsider.com/russia-economy-asset-seizure-expropriation-nationalization-wartime-budget-sanctions-pressure-2025-7",
-    "source": "Business Insider",
-    "category": "Economy"
-  },
-  {
-    "title": "How Trump's immigration crackdown is reshaping financial industry hiring, travel, and dealmaking",
-    "url": "https://www.businessinsider.com/trump-immigration-crackdown-wall-street-mergers-border-crossings-hiring-staffing-2025-7",
-    "source": "Business Insider",
-    "category": "Economy"
-  },
-  {
-    "title": "From interns to insiders: How 2 Balyasny summer recruits landed full-time roles at the $25 billion hedge fund",
-    "url": "https://www.businessinsider.com/balyasny-asset-management-careers-internship-advice-hinal-jajal-francesco-cantanzariti-2025-7",
-    "source": "Business Insider",
-    "category": "Economy"
-  },
-  {
-    "title": "NYC business leaders gear up for back-to-back meetings with Zohran Mamdani",
-    "url": "https://www.businessinsider.com/zohran-mamdani-business-leaders-meeting-kathryn-wylde-partnership-nyc-2025-7",
-    "source": "Business Insider",
-    "category": "Economy"
-  },
-  {
-    "title": "The list of major companies laying off staff this year including Intel, Microsoft, Morgan Stanley, and Meta",
-    "url": "https://www.businessinsider.com/recent-company-layoffs-laying-off-workers-2025",
-    "source": "Business Insider",
-    "category": "Economy"
-  },
-  {
-    "title": "Tech investors are benefiting from being loud online",
-    "url": "https://www.businessinsider.com/tech-investors-loud-online-controversy-dealmaking-2025-7",
-    "source": "Business Insider",
-    "category": "Economy"
-  },
-  {
-    "title": "",
-    "url": "https://www.portfolio.hu/uzlet/20250711/szomoru-szamok-a-magyarorszagon-pusztito-viharrol-tobb-mint-45-ezer-lakas-rongalodott-meg-773877",
+    "title": "Itt a nagy Kriptohét - Erre a 3 dologra figyel most mindenki",
+    "url": "https://www.portfolio.hu/uzlet/20250714/itt-a-nagy-kriptohet-erre-a-3-dologra-figyel-most-mindenki-774269",
+    "time": "2025-07-14T17:00:00",
     "source": "Portfolio.hu",
     "category": "Economy"
   },
   {
-    "title": "Szomorú számok a Magyarországon pusztító viharról: több mint 45 ezer lakás rongálódott meg",
-    "url": "https://www.portfolio.hu/uzlet/20250711/szomoru-szamok-a-magyarorszagon-pusztito-viharrol-tobb-mint-45-ezer-lakas-rongalodott-meg-773877",
+    "title": "Ezen áll vagy bukik az AI-forradalom sikere a vállalatoknál",
+    "url": "https://www.portfolio.hu/uzlet/20250714/ezen-all-vagy-bukik-az-ai-forradalom-sikere-a-vallalatoknal-774255",
+    "time": "2025-07-14T14:24:00",
     "source": "Portfolio.hu",
     "category": "Economy"
   },
   {
-    "title": "",
-    "url": "https://www.portfolio.hu/uzlet/20250711/meg-lehet-palyazni-az-ev-zold-innovacioja-dijra-mutatjuk-a-reszleteket-773535",
+    "title": "Csak a Magyar Telekom van pluszban a hazai nagypapírok közül",
+    "url": "https://www.portfolio.hu/uzlet/20250714/csak-a-magyar-telekom-van-pluszban-a-hazai-nagypapirok-kozul-774237",
+    "time": "2025-07-14T13:00:00",
     "source": "Portfolio.hu",
     "category": "Economy"
   },
   {
-    "title": "Még lehet pályázni az Év Zöld Innovációja díjra! - Mutatjuk a részleteket",
-    "url": "https://www.portfolio.hu/uzlet/20250711/meg-lehet-palyazni-az-ev-zold-innovacioja-dijra-mutatjuk-a-reszleteket-773535",
+    "title": "Gigahitelről tárgyal a MÁV – Mire költik el a pénzt?",
+    "url": "https://www.portfolio.hu/uzlet/20250714/gigahitelrol-targyal-a-mav-mire-koltik-el-a-penzt-774231",
+    "time": "2025-07-14T12:46:00",
     "source": "Portfolio.hu",
     "category": "Economy"
   },
   {
-    "title": "",
-    "url": "https://www.portfolio.hu/uzlet/20250711/hamarosan-dont-az-eu-rol-trump-esnek-a-tozsdek-773803",
+    "title": "Limit, Stop, vagy Piaci? Megbízások, amikkel nem lősz mellé!– online előadás kezdő kereskedőknek",
+    "url": "https://www.portfolio.hu/uzlet/20250714/limit-stop-vagy-piaci-megbizasok-amikkel-nem-losz-melle-online-eloadas-kezdo-kereskedoknek-296958",
+    "time": "2025-07-14T12:45:00",
     "source": "Portfolio.hu",
     "category": "Economy"
   },
   {
-    "title": "",
-    "url": "https://www.finextra.com/newsarticle/46277/ant-international-takes-aim-at-stablecoins-integration-with-usdc-on-the-cards",
+    "title": "Helyreállt az ügyintézés a kormányablakokban",
+    "url": "https://www.portfolio.hu/uzlet/20250714/helyreallt-az-ugyintezes-a-kormanyablakokban-774207",
+    "time": "2025-07-14T10:52:00",
+    "source": "Portfolio.hu",
+    "category": "Economy"
+  },
+  {
+    "title": "MBH Bank: csaknem 20 százalékkal többet érhet a Masterplast részvénye",
+    "url": "https://www.portfolio.hu/uzlet/20250714/mbh-bank-csaknem-20-szazalekkal-tobbet-erhet-a-masterplast-reszvenye-774187",
+    "time": "2025-07-14T09:48:00",
+    "source": "Portfolio.hu",
+    "category": "Economy"
+  },
+  {
+    "title": "A magyar tőzsde is reagál Trumpra",
+    "url": "https://www.portfolio.hu/uzlet/20250714/a-magyar-tozsde-is-reagal-trumpra-774177",
+    "time": "2025-07-14T09:15:00",
+    "source": "Portfolio.hu",
+    "category": "Economy"
+  },
+  {
+    "title": "Szinte a semmiből tűnt elő egy 10 milliárd dolláros startup",
+    "url": "https://www.portfolio.hu/uzlet/20250714/szinte-a-semmibol-tunt-elo-egy-10-milliard-dollaros-startup-774173",
+    "time": "2025-07-14T09:10:00",
+    "source": "Portfolio.hu",
+    "category": "Economy"
+  },
+  {
+    "title": "Két biztosító tarolta le az elektromos rollerek piacát, de még mindig nagy a rés",
+    "url": "https://www.portfolio.hu/uzlet/20250714/ket-biztosito-tarolta-le-az-elektromos-rollerek-piacat-de-meg-mindig-nagy-a-res-774171",
+    "time": "2025-07-14T08:59:00",
+    "source": "Portfolio.hu",
+    "category": "Economy"
+  },
+  {
+    "title": "How Trump’s Tariff Revenue Helped the Government Make Bank In June",
+    "url": "https://www.investopedia.com/how-trumps-tariff-revenue-helped-us-government-make-bank-in-june-11770789",
+    "time": "2025-07-11T00:00:00",
+    "source": "Investopedia",
+    "category": "Economy"
+  },
+  {
+    "title": "Why U.S. Beef Prices Keep Scaling New Heights",
+    "url": "https://www.investopedia.com/why-beef-prices-keep-scaling-new-heights-11769774",
+    "time": "2025-07-12T00:00:00",
+    "source": "Investopedia",
+    "category": "Economy"
+  },
+  {
+    "title": "Retail Sales Fell in June for the First Time in Months, National Retail Federation Says",
+    "url": "https://www.investopedia.com/retail-sales-fell-in-june-for-the-first-time-in-months-national-retail-federation-says-11770590",
+    "time": "2025-07-11T00:00:00",
+    "source": "Investopedia",
+    "category": "Economy"
+  },
+  {
+    "title": "What To Expect From Tuesday's Report On Inflation",
+    "url": "https://www.investopedia.com/what-to-expect-from-tuesday-s-report-on-inflation-11770236",
+    "time": "2025-07-14T00:00:00",
+    "source": "Investopedia",
+    "category": "Economy"
+  },
+  {
+    "title": "New Copper Tariff Could Hit US Manufacturers",
+    "url": "https://www.investopedia.com/copper-tariffs-prices-manufacturing-11770226",
+    "time": "2025-07-10T00:00:00",
+    "source": "Investopedia",
+    "category": "Economy"
+  },
+  {
+    "title": "New Copper Tariff Could Hit US Manufacturers",
+    "url": "https://www.investopedia.com/copper-tariffs-prices-manufacturing-11770226",
+    "time": "2025-07-10T00:00:00",
+    "source": "Investopedia",
+    "category": "Economy"
+  },
+  {
+    "title": "Will The Fed Lower Interest Rates In July? Policymakers Are Split, FOMC Minutes Show",
+    "url": "https://www.investopedia.com/will-the-fed-lower-interest-rates-in-july-policymakers-are-split-fomc-minutes-show-11769229",
+    "time": "2025-07-09T00:00:00",
+    "source": "Investopedia",
+    "category": "Economy"
+  },
+  {
+    "title": "Mortgage Applications Jump As Loan Rates Dip",
+    "url": "https://www.investopedia.com/mortgage-applications-hit-2-year-high-11768833",
+    "time": "2025-07-09T00:00:00",
+    "source": "Investopedia",
+    "category": "Economy"
+  },
+  {
+    "title": "3 Key Changes in The 'Big Beautiful Bill' That Could Affect Housing",
+    "url": "https://www.investopedia.com/big-beautiful-bill-features-expanded-mortgage-deductions-low-income-housing-credits-11767713",
+    "time": "2025-07-08T00:00:00",
+    "source": "Investopedia",
+    "category": "Economy"
+  },
+  {
+    "title": "A Change in Social Security Benefits Caused A Measure of Americans' Income to Fall",
+    "url": "https://www.investopedia.com/social-security-benefits-caused-income-to-fall-11768017",
+    "time": "2025-07-08T00:00:00",
+    "source": "Investopedia",
+    "category": "Economy"
+  },
+  {
+    "title": "Binance launches Sharia Earn, an Islamic banking-aligned token",
+    "url": "https://www.finextra.com/newsarticle/46285/binance-launches-sharia-earn-an-islamic-banking-aligned-token",
+    "time": "2025-07-11T12:14:00",
     "source": "Finextra",
     "category": "Crypto"
   },
   {
     "title": "Ant International takes aim at stablecoins; integration with USDC on the cards",
     "url": "https://www.finextra.com/newsarticle/46277/ant-international-takes-aim-at-stablecoins-integration-with-usdc-on-the-cards",
-    "source": "Finextra",
-    "category": "Crypto"
-  },
-  {
-    "title": "",
-    "url": "https://www.finextra.com/newsarticle/46273/australia-to-commence-multiple-trials-of-tokenised-asset-settlement-and-cbdc",
+    "time": "2025-07-10T11:20:00",
     "source": "Finextra",
     "category": "Crypto"
   },
   {
     "title": "Australia to commence multiple trials of tokenised asset settlement and CBDC",
     "url": "https://www.finextra.com/newsarticle/46273/australia-to-commence-multiple-trials-of-tokenised-asset-settlement-and-cbdc",
+    "time": "2025-07-10T08:25:00",
     "source": "Finextra",
     "category": "Crypto"
   },
   {
-    "title": "",
+    "title": "Ripple picks BNY for stablecoin custody",
     "url": "https://www.finextra.com/newsarticle/46269/ripple-picks-bny-for-stablecoin-custody",
+    "time": "2025-07-10T00:01:00",
     "source": "Finextra",
     "category": "Crypto"
+  },
+  {
+    "title": "Ziglu enters administration",
+    "url": "https://www.finextra.com/newsarticle/46267/ziglu-enters-administration",
+    "time": "2025-07-09T10:33:00",
+    "source": "Finextra",
+    "category": "Crypto"
+  },
+  {
+    "title": "Why the Price of Bitcoin Keeps Hitting Record Highs",
+    "url": "https://www.investopedia.com/why-is-bitcoin-price-going-up-mstr-ibit-11771462",
+    "time": "2025-07-14T00:00:00",
+    "source": "Investopedia",
+    "category": "Cryptocurrency"
+  },
+  {
+    "title": "Bitcoin Price Sets Another Record as it Tops $122,000",
+    "url": "https://www.investopedia.com/bitcoin-price-sets-another-record-as-it-tops-usd122-000-crypto-week-11771404",
+    "time": "2025-07-14T00:00:00",
+    "source": "Investopedia",
+    "category": "Cryptocurrency"
+  },
+  {
+    "title": "What To Expect from the US House’s 'Crypto Week'",
+    "url": "https://www.investopedia.com/what-to-expect-from-the-us-house-s-crypto-week-stablecoins-bitcoin-11769608",
+    "time": "2025-07-11T00:00:00",
+    "source": "Investopedia",
+    "category": "Cryptocurrency"
+  },
+  {
+    "title": "Bitcoin Price Hits New All-Time High as Coinbase, Strategy Shares Rise",
+    "url": "https://www.investopedia.com/bitcoin-price-hits-new-all-time-high-as-coinbase-strategy-shares-rise-11769370",
+    "time": "2025-07-09T00:00:00",
+    "source": "Investopedia",
+    "category": "Cryptocurrency"
+  },
+  {
+    "title": "Trump Media Plans To Launch ‘Crypto Blue Chip ETF’ Holding Bitcoin, Ether, Solana and More",
+    "url": "https://www.investopedia.com/trump-media-plans-to-launch-crypto-blue-chip-etf-holding-bitcoin-ether-solana-and-more-11768442",
+    "time": "2025-07-08T00:00:00",
+    "source": "Investopedia",
+    "category": "Cryptocurrency"
+  },
+  {
+    "title": "What to Expect From Bitcoin and Crypto Markets in the 2nd Half of 2025",
+    "url": "https://www.investopedia.com/what-to-expect-bitcoin-crypto-markets-second-half-2025-11762236",
+    "time": "2025-07-06T00:00:00",
+    "source": "Investopedia",
+    "category": "Cryptocurrency"
+  },
+  {
+    "title": "Investors Have Lost Nearly $2.5B on Crypto Scams, Hacks So Far in 2025: Report",
+    "url": "https://www.investopedia.com/investors-have-lost-nearly-usd2-5b-on-crypto-scams-hacks-11764561",
+    "time": "2025-07-01T00:00:00",
+    "source": "Investopedia",
+    "category": "Cryptocurrency"
+  },
+  {
+    "title": "Strategy Buys Another $530 Million Worth of Bitcoin",
+    "url": "https://www.investopedia.com/strategy-buys-another-530-million-worth-of-bitcoin-11763410",
+    "time": "2025-06-30T00:00:00",
+    "source": "Investopedia",
+    "category": "Cryptocurrency"
+  },
+  {
+    "title": "Federal Regulator Opens Doors to Considering Crypto in Mortgage Applications",
+    "url": "https://www.investopedia.com/federal-regulator-opens-doors-to-crypto-in-mortgage-applications-11761381",
+    "time": "2025-06-25T00:00:00",
+    "source": "Investopedia",
+    "category": "Cryptocurrency"
+  },
+  {
+    "title": "Coinbase Stock Gets a New Top Wall Street Bull After Tuesday's 12% Pop",
+    "url": "https://www.investopedia.com/coinbase-stock-gets-a-new-top-wall-street-bull-after-tuesday-12-percent-pop-11760804",
+    "time": "2025-06-25T00:00:00",
+    "source": "Investopedia",
+    "category": "Cryptocurrency"
   }
 ]
