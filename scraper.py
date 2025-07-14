@@ -299,7 +299,7 @@ def get_monitorblog_reszvenypiac_news():
             "url": link,
             "time": time_iso,
             "source": "Monitorblog.hu",
-            "category": "Stock Market"
+            "category": "Markets"
         })
 
     print(f"📥 get_monitorblog_reszvenypiac_news(): {len(articles)} hír betöltve")
@@ -388,7 +388,7 @@ def get_investopedia_crypto_news():
             "url": link,
             "time": time_iso,
             "source": "Investopedia",
-            "category": "Cryptocurrency"
+            "category": "Crypto"
         })
 
     print(f"📥 get_investopedia_crypto_news(): {len(articles)} hír betöltve")
